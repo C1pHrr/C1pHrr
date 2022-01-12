@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gk4t&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=C1pHrr&theme=dark&show_icons=true" alt="shwetangStats" />  
 </p>
 
 ---
