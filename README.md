@@ -27,12 +27,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C1pHrr&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=uBlitz&theme=dark&show_icons=true" alt="shwetangStats" />  
 </p>
 
 ---
 
 <p align="center"> 
   Profile Visits<br>
-  <img src="https://profile-counter.glitch.me/gk4t/count.svg" />
+  <img src="https://profile-counter.glitch.me/uBlitz/count.svg" />
 </p>
